@@ -1,0 +1,10 @@
+- name: Item 1
+  description: Description of Item 1
+  price: 10.00
+  image: /assets/images/item1.jpg
+
+- name: Item 2
+  description: Description of Item 2
+  price: 20.00
+  image: /assets/images/item2.jpg
+
